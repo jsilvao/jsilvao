@@ -1,9 +1,9 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsilvao)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsilvao)](https://git.io/streak-stats)
 <!--
 **jsilvao/jsilvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsilvao)](https://git.io/streak-stats)
+
 
 
 Here are some ideas to get you started:
